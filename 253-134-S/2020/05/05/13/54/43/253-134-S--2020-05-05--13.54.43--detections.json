@@ -1,0 +1,31 @@
+{
+  "id": "253-134-S--2020-05-05--13.54.43--detections",
+  "model": "ResNet50_COCO_best_v2.0.1.h5",
+  "summary": {
+    "total": 2,
+    "person": 1,
+    "car": 1
+  },
+  "253-134-S--2020-05-05--13.54.43--detections--1--person--27.9--7x22--0.217v7.239": {
+    "type": "person",
+    "id": "253-134-S--2020-05-05--13.54.43--detections--1--person--27.9--7x22--0.217v7.239",
+    "percentage_probability": 27.9177188873291,
+    "box_points": [
+      0,
+      217,
+      7,
+      239
+    ]
+  },
+  "253-134-S--2020-05-05--13.54.43--detections--2--car--65.0--19x15--70.69v89.84": {
+    "type": "car",
+    "id": "253-134-S--2020-05-05--13.54.43--detections--2--car--65.0--19x15--70.69v89.84",
+    "percentage_probability": 65.01352787017822,
+    "box_points": [
+      70,
+      69,
+      89,
+      84
+    ]
+  }
+}

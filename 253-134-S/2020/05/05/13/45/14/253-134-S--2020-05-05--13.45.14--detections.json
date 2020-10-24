@@ -1,0 +1,65 @@
+{
+  "id": "253-134-S--2020-05-05--13.45.14--detections",
+  "model": "ResNet50_COCO_best_v2.0.1.h5",
+  "summary": {
+    "total": 5,
+    "car": 2,
+    "motorcycle": 1,
+    "person": 2
+  },
+  "253-134-S--2020-05-05--13.45.14--detections--1--car--85.6--14x10--78.54v92.64": {
+    "type": "car",
+    "id": "253-134-S--2020-05-05--13.45.14--detections--1--car--85.6--14x10--78.54v92.64",
+    "percentage_probability": 85.55132150650024,
+    "box_points": [
+      78,
+      54,
+      92,
+      64
+    ]
+  },
+  "253-134-S--2020-05-05--13.45.14--detections--2--motorcycle--29.6--7x13--73.65v80.78": {
+    "type": "motorcycle",
+    "id": "253-134-S--2020-05-05--13.45.14--detections--2--motorcycle--29.6--7x13--73.65v80.78",
+    "percentage_probability": 29.641923308372498,
+    "box_points": [
+      73,
+      65,
+      80,
+      78
+    ]
+  },
+  "253-134-S--2020-05-05--13.45.14--detections--3--person--65.4--7x13--73.65v80.78": {
+    "type": "person",
+    "id": "253-134-S--2020-05-05--13.45.14--detections--3--person--65.4--7x13--73.65v80.78",
+    "percentage_probability": 65.42748808860779,
+    "box_points": [
+      73,
+      65,
+      80,
+      78
+    ]
+  },
+  "253-134-S--2020-05-05--13.45.14--detections--4--person--37.1--8x7--7.232v15.239": {
+    "type": "person",
+    "id": "253-134-S--2020-05-05--13.45.14--detections--4--person--37.1--8x7--7.232v15.239",
+    "percentage_probability": 37.10010051727295,
+    "box_points": [
+      7,
+      232,
+      15,
+      239
+    ]
+  },
+  "253-134-S--2020-05-05--13.45.14--detections--5--car--95.4--59x42--166.101v225.143": {
+    "type": "car",
+    "id": "253-134-S--2020-05-05--13.45.14--detections--5--car--95.4--59x42--166.101v225.143",
+    "percentage_probability": 95.35282850265503,
+    "box_points": [
+      166,
+      101,
+      225,
+      143
+    ]
+  }
+}
